@@ -1,3 +1,4 @@
+## bikeshare data is provided by motivate
 ## import all packages and functions
 import time
 import pandas as pd
