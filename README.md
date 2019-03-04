@@ -10,12 +10,7 @@ Project will explore bikeshare data in three cities. Analysis that is created wi
 Data is provided by citibike.
 
 ### Credits
-Many thanks to the contributers on:
-<<<<<<< HEAD
-*stackexchange
-*stackoverflow
-=======
+Many thanks to the contributers:
 * stackexchange
 * stackoverflow
->>>>>>> documentation
 
