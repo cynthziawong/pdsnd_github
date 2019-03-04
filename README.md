@@ -1,20 +1,15 @@
 ### Date created
-This project was created in the month of January. The README file was finalized on March 03 2019.
+Include the date you created this project and README file.
 
-## Citibike Bikeshare Data Exploration
+### Project Title
+Replace the Project Title
 
-## Description
-The project aims to explore bikeshare data from the company Motivate. The data being processed and analyzed will create a customer profile that can drive Sales and Marketing.
+### Description
+Describe what your project is about and what it does
 
 ### Files used
-Data was provided by citibike. 
-Files that were used:
-*chicago.csv
-*new_york_city.csv
-*washington.csv
+Include the files used
 
 ### Credits
-Big thanks to the contributers to these forums:
-*Stackoverflow
-*Stackexchange
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
