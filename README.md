@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+Project was created in January. README was updated in March.
 
-### Project Title
-Replace the Project Title
+### Bikeshare Data Exploration
 
 ### Description
-Describe what your project is about and what it does
+Project will explore bikeshare data in three cities. Analysis that is created will be used to better understand the customers that do use bikeshare. The analysis will drive sales and marketing. 
 
-### Files used
-Include the files used
+### Source
+Data is provided by citibike.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Many thanks to the contributers on:
+*stackexchange
+*stackoverflow
 
