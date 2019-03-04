@@ -11,6 +11,11 @@ Data is provided by citibike.
 
 ### Credits
 Many thanks to the contributers on:
+<<<<<<< HEAD
 *stackexchange
 *stackoverflow
+=======
+* stackexchange
+* stackoverflow
+>>>>>>> documentation
 
